@@ -3,21 +3,6 @@
 
 Simple working Pytorch implementation of Stylegan2 based on https://arxiv.org/abs/1912.04958
 
-Below are some flowers that do not exist.
-
-<img src="https://raw.githubusercontent.com/lucidrains/stylegan2-pytorch/master/samples/flowers.jpg" width="450" height="auto">
-
-<img src="https://raw.githubusercontent.com/lucidrains/stylegan2-pytorch/master/samples/flowers-2.jpg" width="450" height="auto">
-
-Neither do these hands
-
-<img src="https://raw.githubusercontent.com/lucidrains/stylegan2-pytorch/master/samples/hands.jpg" width="450" height="auto">
-
-Nor these cities
-
-<img src="https://raw.githubusercontent.com/lucidrains/stylegan2-pytorch/master/samples/cities.jpg" width="450" height="auto">
-
-
 ## Install
 
 You will need a machine with a GPU and CUDA installed. Then pip install the package like this
